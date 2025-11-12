@@ -11,3 +11,6 @@ Esse desafio 1 foi feito com o objetivo de revisar todos os conceitos aprendidos
 7. List-style
 
 Com os conhecimentos adquiridos durante os estudos dessa seção, criei uma página para o meu currículo para colocar em prática toda o conteúdo estudado.
+---
+
+Link: <a href="https://github.com/fernandasfarias/curriculo_desafio_1">Meu currículo</a>
